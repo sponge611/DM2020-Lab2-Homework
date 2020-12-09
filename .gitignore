@@ -1,0 +1,11 @@
+GoogleNews/
+bilstm_clean_data.csv
+cudnn_clean_data.csv
+onehot_emotion.csv
+output.csv
+output_naive_bilsm.csv
+output_sgd.csv
+raw_data.pkl
+test.pkl
+train.pkl
+data/
